@@ -1,8 +1,8 @@
 # Fair-Earth-Share
 
-Ein Manifest für ein duales Zahlungssystem zur gerechten Ressourcenverteilung 
-veröffentlicht von Friedrich Fessler am 10.12.2023 
-anlässlich des 75. Jahrestages der Erklärung der Menschenrechte der Vereinten Nationen
+> Ein **Manifest** für ein duales Zahlungssystem zur gerechten Ressourcenverteilung 
+> veröffentlicht von Friedrich Fessler am 10.12.2023 
+> anlässlich des 75. Jahrestages der Erklärung der Menschenrechte der Vereinten Nationen
 
 
 Seit dem zweiten Weltkrieg ist die Weltwirtschaft mit Ausnahme von kurzen Einbrüchen ständig gewachsen und hat den Menschen in den meisten Regionen der Erde mehr Wohlstand und eine höhere Lebenserwartung gebracht. Jedoch: ein weiterhin unbegrenztes Wachstum der Wirtschaft und damit Ressourcenverbrauch auf einem begrenzten Planeten ist nicht möglich. Die Verschmutzung der Meere, das Versiegeln von Böden, das Aussterben von Tierarten und die Erhitzung der Erde zeigen uns auf, dass wir eine globale Kurskorrektur benötigen.
