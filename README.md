@@ -15,7 +15,7 @@ Der globaler Ressourcenverbrauch muss deutlich sinken.
 
 Wer aber entscheidet nun, wieviel ein Mensch an Ressourcen verbrauchen darf? Wir sehen, wir haben es hier mit einer globalen Verteilungs- und Gerechtigkeitsfrage zu tun. Wie kann dafür eine gerechte Lösung aussehen, wenn Teile der Menschheit noch unerfüllte Grundbedürfnisse haben und ihnen ein größerer Ressourcenverbrauch zusteht, während andere, die über den Verhältnissen gelebt haben, sich umso mehr einschränken müssen, damit wir in Summe das Ziel der Erhaltung der natürlichen Ressourcen für nachkommende Generationen erhalten? 
 
-# Grundlage der Fair-Earth-Share: die Allgemeinen Menschenrechte der UN
+## Grundlage der Fair-Earth-Share: die Allgemeinen Menschenrechte der UN
 
 Das Grundprinzip des Fair-Earth-Shares leitet sich aus der genau auf den Tag vor 75 Jahren proklamierten Allgemeinen Erklärung der Menschenrechte der Vereinten Nationen ab. Der Artikel 1 der Allgemeinen Erklärung der Menschenrechte (International Bill of Human Rights) lautet: "Alle Menschen sind frei und gleich an Würde und Rechten geboren." (All human beings are born free and equal in dignity and rights.) Wenn alle Menschen die gleichen Rechte haben, dann folgt daraus, dass sie, im Gegensatz zum jetzigen Zustand, einen gleich großen Anspruch auf die Ressourcen der Erde haben.
 
@@ -23,7 +23,7 @@ Jeder Mensch hat das Anrecht auf den gleichen Anteil an Ressourcenverbrauch pro 
 
 Die Ressourcen, die uns die Natur innerhalb der planetaren Grenzen zur Verfügung stellt, werden dabei rechnerisch anteilig pro Kopf auf die gesamten Menschheit aufgeteilt, der sogenannte „Fair-Earth-Share“. Dieser aliquote Anteil wird täglich jedem Menschen als gerechte Teilhabe am Ganzen automatisch gutgeschrieben. Dieser umfasst in der ersten Ausbaustufe die Bereiche Flächennutzung, Treibhausgasemissionen, Trinkwasser-, Energie- und Materialverbrauch.
 
-# Wie funktionieren die Fair-Earth-Shares konkret?
+## Wie funktionieren die Fair-Earth-Shares konkret?
 
 Bei jeder Zahlung wird neben dem Preis in der jeweiligen Staatswährung auch eine zweite Einheit abgebucht – die Fair-Earth-Shares. Waren und Dienstleistungen sind also in zwei Preisen angeschrieben, nennen wir es daher duales Preissystem. Der Preis in lokaler Staatswährung z.B. in Euro bildet sich wie gewohnt frei nach Angebot und Nachfrage. Der zweite Preis in Fair-Earth-Shares wird je nach Ressourcenverbrauch regulatorisch festgelegt und weltweit in ein und derselben Verrechnungseinheit gebucht. Denn die Ressourcen der Erde sind universell, da sie sich von physikalisch messbaren Parametern ableiten. Dieses Ressourcenverbrauchs-Guthaben kennt daher weder Inflation noch Zinsen, so wie ein Kilogramm, eine Sekunde oder ein Meter per Definition einmal festgelegt, weltweit einheitlich und dauerhaft gilt.
 
@@ -41,7 +41,7 @@ Systemweit betrachtet kann dadurch die Wirtschaft nur in dem Maß wachsen und me
 
 Wenn es zum Beispiel einem Betrieb gelingt, dasselbe Produkt oder dieselbe Dienstleistung mit einem um 10% geringeren Ressourcenverbrauch herzustellen, hat er am Fair-Earth-Share Markt einen größeren Wettbewerbsvorteil, als wenn es nur um 10% billiger produziert. Denn der Verkauf der Fair-Earth-Shares am freien Markt bringt dem Betrieb aufgrund der gegenüber dem Geldsystem verknappten Menge, mehr Geld ein, als er durch den um 10% höheren Deckungsbeitrag verdienen würde. Somit ist es wirtschaftlicher in Ressourcenschonung zu investieren als in Kostensenkung. Damit dreht sich die Lage, weil derzeit Schäden an der Umwelt sich so gut wie nie betriebswirtschaftlich auswirken. Mit der Einführung der Fair-Earth-Shares bekommt der Verbrauch von natürlichen Ressourcen ein Preissignal und das macht die grüne Transformation auch betriebswirtschaftlich sinnvoll.
  
-# Wie können die Fair-Earth-Shares eingeführt werden?
+## Wie können die Fair-Earth-Shares eingeführt werden?
 
 Die Einführung des dualen Preissystems erfolgt nach einer freiwilligen Erprobungsphase per Gesetz. Es beginnt mit den ressourcenintensivsten Produktgruppen bei denen auch eine ausreichend gute Datenlage und Messbarkeit gegeben ist. Laufend wird sich die Datenlage verbessern und über die Jahre kommen weitere Produktgruppen hinzu.
 
@@ -51,14 +51,14 @@ Der Anteil vom Fair-Earth-Share Preis der im dualen Preissystem bezahlt werden m
 
 Die Einführung kann länderweise erfolgen. Es bedarf dazu nur einer Regelung im Außenhandel mit Länder, die nicht am Fair-Earth-Share System teilnehmen, analog zur länderspezifischen Umsatzsteuer, die eine Einfuhrumsatzsteuer auf importierte Güter und eine Vorsteuerabzugsberechtigung für den Export vorsieht.
 
-# Warum braucht es Fair-Earth-Shares?
+## Warum braucht es Fair-Earth-Shares?
 
 Das Fair-Earth-Share System führt dazu, dass Menschen, Unternehmen und auch Staaten bewusst mit den natürlichen Ressourcen umgehen, Kreislaufwirtschaft sich doppelt rechnet, Kriege um Ressourcen endgültig der Vergangenheit angehören, es zu einem finanziellen Ausgleich zwischen dem globalen Norden und Süden kommt, die Schere zwischen Arm und Reich wieder zugeht und alle Menschen ein gutes Leben in angemessenem Wohlstand und im Einklang mit den planetaren Grenzen führen können.
 
 
 
 
-Wien, am 10. Dez. 2023						Friedrich Fessler
+# Wien, am 10. Dez. 2023						Friedrich Fessler
 
 Dieses Manifest steht unter der Creative-Commons-Lizenz BY-NC-SA 4.0 international 
 https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de
