@@ -58,8 +58,9 @@ Das Fair-Earth-Share System führt dazu, dass Menschen, Unternehmen und auch Sta
 
 
 
-# Wien, am 10. Dez. 2023						Friedrich Fessler
+### Wien, am 10. Dez. 2023 geschrieben von Friedrich Fessler
 
 Dieses Manifest steht unter der Creative-Commons-Lizenz BY-NC-SA 4.0 international 
+
 https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de
 
